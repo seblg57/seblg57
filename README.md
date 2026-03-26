@@ -43,7 +43,71 @@ Tarentula sensors
 
 ---
 
-### ◈ WatchScope — Security SaaS
+### ⬢ HeXG Auth — Sovereign Access Layer
+
+> *Access control treated as security infrastructure, not as a commodity feature.*
+
+HeXG includes a self-hosted authentication layer built with the same philosophy as the platform itself: control, resilience, and sovereignty.
+
+Designed as a hardened access pipeline rather than a standard login form, it combines **custom Proof-of-Work**, **anti-bot controls**, **approval-based onboarding**, **MFA enforcement**, **token lifecycle management**, and **full auditability** into a single defensive layer.
+
+The objective is simple: keep the entry point observable, abuse-resistant, and fully controlled — without outsourcing identity or trust decisions to third-party platforms.
+
+---
+
+### ◈ WatchScope — Security Visibility SaaS
+
+> *See what is exposed. Understand what matters.*
+
+WatchScope is a security visibility platform designed to help organizations monitor external exposure, surface meaningful signals, and turn scattered technical findings into actionable operational insight.
+
+It focuses on clarity over noise: infrastructure visibility, exposure monitoring, change detection, and security-relevant observations presented in a way that supports fast understanding and decision-making.
+
+The goal is not to flood teams with raw data, but to provide a cleaner operational view of what deserves attention.
+
+
+### 🔬 What I'm building right now
+
+```python
+/sebux $ cat current_focus.py
+{
+  "priority_1": "Actor Profile UI — behavioral timeline per attacker IP",
+  "priority_2": "Credential Explorer — cross-sensor credential family analysis",
+  "priority_3": "Notable Campaigns — coordinated cluster auto-detection",
+  "horizon":    "HexG-ML via CatBoost — proprietary classification model",
+  "moat":       "primary data accumulated over time, not the code"
+}
+```
+
+---
+
+### 📡 How I build
+
+- **Primary data > aggregated feeds** — the moat is what you capture yourself
+- **Deterministic pipeline** — same input, same output, always. Raw data never mutates
+- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
+- **AI gate** — ~88% of sessions resolved deterministically before any model sees them
+- **20 years of prod scars** — I've operated 1xxxxx-servers Linux estates and petabyte-scale storage. I don't build toys
+
+---
+
+### 🏠 Lab
+
+Multiple AMD 5950 - AMD 3990 - RTX workstations - EPYC AMD - XEON · High-end GPUs · Solar panels  · Local inference: soon™
+
+---
+
+### 📬 Contact
+
+I talk to serious people.  
+
+[![Email](https://img.shields.io/badge/security@hexg.io-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@hexg.io)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=sebux&color=6e40c9&style=flat-square)
+
+*20 years of infrastructure. Two research products in prod. Solo. Self-funded. EU-sovereign.*
 
 
 ---
@@ -115,46 +179,3 @@ Tarentula sensors
 ![XGBoost](https://img.shields.io/badge/XGBoost-7A461F?style=for-the-badge&logoColor=white)
 
 ---
-
-### 🔬 What I'm building right now
-
-```python
-/sebux $ cat current_focus.py
-{
-  "priority_1": "Actor Profile UI — behavioral timeline per attacker IP",
-  "priority_2": "Credential Explorer — cross-sensor credential family analysis",
-  "priority_3": "Notable Campaigns — coordinated cluster auto-detection",
-  "horizon":    "HexG-ML via CatBoost — proprietary classification model",
-  "moat":       "primary data accumulated over time, not the code"
-}
-```
-
----
-
-### 📡 How I build
-
-- **Primary data > aggregated feeds** — the moat is what you capture yourself
-- **Deterministic pipeline** — same input, same output, always. Raw data never mutates
-- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
-- **AI gate** — ~88% of sessions resolved deterministically before any model sees them
-- **20 years of prod scars** — I've operated 1xxxxx-servers Linux estates and petabyte-scale storage. I don't build toys
-
----
-
-### 🏠 Lab
-
-Multiple AMD 5950 - 3990 - rtx workstations · High-end GPUs · Solar panels  · Local inference: soon™
-
----
-
-### 📬 Contact
-
-I talk to serious people.  
-
-[![Email](https://img.shields.io/badge/security@hexg.io-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@hexg.io)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=sebux&color=6e40c9&style=flat-square)
-
-*20 years of infrastructure. Two research products in prod. Solo. Self-funded. EU-sovereign.*
