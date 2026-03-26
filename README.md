@@ -124,21 +124,29 @@ I talk to serious people.
 ![AlmaLinux](https://img.shields.io/badge/AlmaLinux-4E5F3A?style=for-the-badge&logo=almalinux&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-6E1E1E?style=for-the-badge&logo=oracle&logoColor=white)
 ![Sun_Microsystems](https://img.shields.io/badge/Sun_Microsystems-3A3A3A?style=for-the-badge&logo=sun-microsystems&logoColor=white)
-![Gentoo](https://img.shields.io/badge/Gentoo-4A3D63?style=for-the-badge&logo=gentoo&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-6A2B2B?style=for-the-badge&logo=freebsd&logoColor=white)
+![Gentoo](https://img.shields.io/badge/Gentoo-4A3D63?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1F4E6B?style=for-the-badge&logo=archlinux&logoColor=white)
 ![BlackArch](https://img.shields.io/badge/BlackArch-111111?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Kali_Linux](https://img.shields.io/badge/Kali_Linux-4A5D6E?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Parrot_OS](https://img.shields.io/badge/Parrot_OS-2E6A73?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-6B2942?style=for-the-badge&logo=raspberrypi&logoColor=white)
-
 ![VMware](https://img.shields.io/badge/VMware-4C5863?style=for-the-badge&logo=vmware&logoColor=white)
+
+### ⚙️ Automation & Platform
+
 ![Ansible](https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge&logo=ansible&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-245C85?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🌐 Web / Edge / Access
+
 ![Nginx](https://img.shields.io/badge/Nginx-1E5A3A?style=for-the-badge&logo=nginx&logoColor=white)
 ![ModSecurity](https://img.shields.io/badge/ModSecurity-4B3566?style=for-the-badge&logoColor=white)
 ![Caddy](https://img.shields.io/badge/Caddy-2E5F73?style=for-the-badge&logo=caddy&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-245C85?style=for-the-badge&logo=docker&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-6A2323?style=for-the-badge&logo=wireguard&logoColor=white)
+
+### ☁️ Cloud
+
 ![AWS](https://img.shields.io/badge/AWS-2B3440?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-1F4F75?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
