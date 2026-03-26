@@ -19,8 +19,7 @@
 
 ### 💼 Professional background
 
-20 years of system engineering across banking, defense, government, and intelligence sectors. 
-
+20 years of system engineering. I started early in IRCoperation circles, built my foundations on BSD , Gentoo, and later evolved through Sun Microsystems envs.
 ---
 
 ###  ⬡ HexG — Behavioral Intelligence Platform
