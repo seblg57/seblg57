@@ -36,11 +36,11 @@ Multiple AMD 5950 - AMD 3990 - RTX workstations - EPYC AMD - XEON · High-end GP
 
 ### 📡 How I build
 
+- **20 years of prod scars** — I've operated 1xxxxx-servers Linux estates and petabyte-scale storage. I don't build toys
 - **Primary data > aggregated feeds** — the moat is what you capture yourself
 - **Deterministic pipeline** — same input, same output, always. Raw data never mutates
-- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
+- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, Raspberry, zero cloud dependency on control plane
 - **AI gate** — ~88% of sessions resolved deterministically before any model sees them
-- **20 years of prod scars** — I've operated 1xxxxx-servers Linux estates and petabyte-scale storage. I don't build toys
 
 ---
 
@@ -113,7 +113,12 @@ The goal is not to flood teams with raw data, but to provide a cleaner operation
   "moat":       "primary data accumulated over time, not the code"
 }
 ```
+---
+### 🕶️ OSINT & Red Team Tradecraft
 
+Old-school roots. Recon first. Protocols before platforms.
+
+OSINT, surface mapping, targeted validation, custom offensive research, and red team tradecraft shaped the same way as the rest: fewer assumptions, more understanding, and no dependence on canned workflows when custom paths are needed.
 
 ---
 ### 🛠 Stack — Systems & Infra
@@ -190,5 +195,16 @@ The goal is not to flood teams with raw data, but to provide a cleaner operation
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-8A541F?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-8A3F2A?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-7A461F?style=for-the-badge&logoColor=white)
+
+### 🕶️ OSINT & RTT
+
+![OSINT](https://img.shields.io/badge/OSINT-3A3A3A?style=for-the-badge&logoColor=white)
+![Red_Teaming](https://img.shields.io/badge/Red_Teaming-5A2A2A?style=for-the-badge&logoColor=white)
+![Recon](https://img.shields.io/badge/Recon-2F4F6A?style=for-the-badge&logoColor=white)
+![Attack_Surface](https://img.shields.io/badge/Attack_Surface-4A3A2A?style=for-the-badge&logoColor=white)
+![Protocol_Analysis](https://img.shields.io/badge/Protocol_Analysis-3A4A5A?style=for-the-badge&logoColor=white)
+![Custom_Tooling](https://img.shields.io/badge/Custom_Tooling-4A3D63?style=for-the-badge&logoColor=white)
+![OpenSSL](https://img.shields.io/badge/OpenSSL-4F5B93?style=for-the-badge&logo=openssl&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-2A5D7A?style=for-the-badge&logoColor=white)
 
 ---
