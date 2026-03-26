@@ -4,12 +4,11 @@
 /sebux $ cat about.json
 {
   "title":      "Senior Systems & Security Architect · Solo Founder",
-  "experience": "20+ years in mission-critical infrastructure",
-  "sectors":    ["defense", "banking", "government", "intelligence"],
+  "experience": "20+ years infrastructure",
   "languages":  ["FR", "EN", "DE"],
-  "location":   "EU — France / Portugal",
-  "day_job":    "architecting TIP/SOAR platforms for defense & gov (US + EMEA)",
-  "night_job":  "building my own attacker intelligence platform from scratch",
+  "location":   "EU",
+  "day_job":    "architecting / integrating TIP/SOAR platforms",
+  "night_job":  "building my own behavioral research platform from scratch",
   "sovereignty": true
 }
 ```
@@ -18,12 +17,7 @@
 
 ### 💼 Professional background
 
-20 years across banking, defense, government, and intelligence sectors.  
-Currently **Senior Infrastructure Engineer at ThreatConnect** — deploying enterprise Threat Intelligence & SOAR platforms for Tier-1 banks, government agencies, and Fortune-500 orgs across EMEA & North America.
 
-Previously: **Société Générale** (1,500+ Linux servers, HA infra, Terraform/Ansible), **European Parliament**, **Atos / European Commission**.
-
-🏆 CEO Recognition Award – ThreatConnect (2024) · Star Employee Award (2022)
 
 ---
 
@@ -33,7 +27,8 @@ Previously: **Société Générale** (1,500+ Linux servers, HA infra, Terraform/
 
 My main research project. A distributed attacker intelligence system built entirely on **primary session data** — no feed aggregation, no OSINT resale.
 
-A network of geographically spread honeypots (FR · PL · SG) captures adversarial behavior in real time. A deterministic classification engine reconstructs actor profiles: TTPs, timing patterns, kill chain stages, cross-sensor behavioral correlation.
+A network of geographically spread deception sensors (FR · PL · SG) captures adversarial behavior in real time.
+A deterministic classification engine reconstructs actor profiles: TTPs, timing patterns, kill chain stages, cross-sensor behavioral correlation.
 
 ```bash
 /sebux $ cat hexg_pipeline.sh
@@ -49,14 +44,13 @@ Tarentula sensors (FR/PL/SG)
 
 **What comes out:** not "this IP is bad". But — *why* it showed up, *how* it behaved, *when* and across *which sensors simultaneously*, *which MITRE TTPs* it mapped to, and what *actor archetype* it reconstructs to.
 
-**Target:** government agencies · NATO entities · defense research · intelligence analysts  
 **Model:** proprietary data accumulation → on-demand API (DomainTools model, but behavioral depth)
 
 ---
 
 ### ◈ WatchScope — Security SaaS
 
-Security monitoring platform for web agencies. Funds HexG infrastructure while I accumulate proprietary data. The two products feed each other.
+Security monitoring platform for  agencies. Funds HexG infrastructure while I accumulate proprietary data. The two products feed each other.
 
 ---
 
