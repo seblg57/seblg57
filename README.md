@@ -93,9 +93,9 @@ Security monitoring platform for  agencies. Funds HexG infrastructure while I ac
 
 - **Primary data > aggregated feeds** — the moat is what you capture yourself
 - **Deterministic pipeline** — same input, same output, always. Raw data never mutates
-- **EU sovereign** — bare-metal OVH, self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
+- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
 - **AI gate** — ~88% of sessions resolved deterministically before any model sees them
-- **20 years of prod scars** — I've operated 1,500-server Linux estates and petabyte-scale storage. I don't build toys
+- **20 years of prod scars** — I've operated 1500 server Linux estates and petabyte-scale storage. I don't build toys
 
 ---
 
@@ -108,9 +108,8 @@ Multiple AMD workstations · High-end GPUs · Solar panels incoming · Local inf
 ### 📬 Contact
 
 I talk to serious people.  
-Gov agencies · NATO entities · defense research · adjacent researchers — reach out.
 
-[![Email](https://img.shields.io/badge/shellguru@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:shellguru@protonmail.com)
+[![Email](https://img.shields.io/badge/shellguru@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@hexg.io)
 
 ---
 
