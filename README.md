@@ -20,12 +20,12 @@
 ### 💼 Pro background
 
 20 years of system engineering. 
----
+
 
 ### 🌒 Free Background
 
 IRC operator roots. BSD and Gentoo first. Sun Microsystems later.
----
+
 
 ###  ⬡ HexG — Behavioral Intelligence Platform
 
