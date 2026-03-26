@@ -26,6 +26,8 @@
 
 IRC operator roots. BSD and Gentoo first. Sun Microsystems later.
 
+---
+
 
 ###  ⬡ HexG — Behavioral Intelligence Platform
 
