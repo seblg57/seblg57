@@ -1,15 +1,14 @@
-### Hey, I'm Sebastien — aka Sebux. 👾
+### Hey, I'm Sebux. 👾
 
 ```bash
 /sebux $ cat about.json
 {
-  "title":      "Senior Systems & Security Architect · Solo Founder",
+  "title":      "Systems thinker, Researcher and Solo Founder",
   "experience": "20+ years in mission-critical infrastructure",
-  "sectors":    ["defense", "banking", "government", "intelligence"],
   "languages":  ["FR", "EN", "DE"],
-  "location":   "EU — France / Portugal",
-  "day_job":    "architecting TIP/SOAR platforms for defense & gov (US + EMEA)",
-  "night_job":  "building my own attacker intelligence platform from scratch",
+  "location":   "EU",
+  "day_job":    "architecting / deploying TIP/SOAR platforms",
+  "night_job":  "building my own attacker behavioral research platform from scratch",
   "sovereignty": true
 }
 ```
@@ -18,12 +17,7 @@
 
 ### 💼 Professional background
 
-20 years across banking, defense, government, and intelligence sectors.  
-Currently **Senior Infrastructure Engineer at ThreatConnect** — deploying enterprise Threat Intelligence & SOAR platforms for Tier-1 banks, government agencies, and Fortune-500 orgs across EMEA & North America.
-
-Previously: **Société Générale** · **European Parliament** · **Atos / European Commission**
-
-🏆 CEO Recognition Award – ThreatConnect (2024) · Star Employee Award (2022)
+20 years across banking, defense, government, and intelligence sectors. 
 
 ---
 
@@ -31,10 +25,10 @@ Previously: **Société Générale** · **European Parliament** · **Atos / Euro
 
 > *Not what hit you. Why.*
 
-Distributed attacker intelligence built entirely on **primary session data**. A network of geographically spread honeypots (FR · PL · SG) observes adversarial behavior in real time and reconstructs actor profiles — TTPs, timing patterns, kill chain stages, cross-sensor behavioral correlation.
+Distributed attacker intelligence built entirely on **primary session data**. A network of geographically spread deception sensors  observes adversarial behavior in real time and reconstructs actor profiles — TTPs, timing patterns, kill chain stages, cross-sensor behavioral correlation.
 
 ```bash
-Tarentula sensors (FR/PL/SG)
+Tarentula sensors
   → deathweb-ingest (Python, stateless)
     → NATS JetStream (at-least-once)
       → deathweb-cognition (deterministic engine + AI gate)
@@ -43,7 +37,6 @@ Tarentula sensors (FR/PL/SG)
             → PurpleCore UI (React/TypeScript)
 ```
 
-**Target:** gov agencies · NATO · defense research · intelligence analysts  
 **Model:** proprietary data accumulation → on-demand API (DomainTools model, but behavioral depth)
 
 ---
@@ -116,24 +109,23 @@ Security monitoring platform for web agencies. Funds HexG infrastructure. The tw
 
 - **Primary data > aggregated feeds** — the moat is what you capture yourself
 - **Deterministic pipeline** — same input, same output, always. Raw data never mutates
-- **EU sovereign** — bare-metal OVH, self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
+- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
 - **AI gate** — ~88% of sessions resolved deterministically before any model sees them
-- **20 years of prod scars** — I've operated 1,500-server Linux estates and petabyte-scale storage. I don't build toys
+- **20 years of prod scars** — I've operated 1xxxxx-servers Linux estates and petabyte-scale storage. I don't build toys
 
 ---
 
 ### 🏠 Lab
 
-Multiple AMD workstations · High-end GPUs · Solar panels incoming · Local inference: soon™
+Multiple AMD 5950 - 3990 - rtx workstations · High-end GPUs · Solar panels  · Local inference: soon™
 
 ---
 
 ### 📬 Contact
 
 I talk to serious people.  
-Gov agencies · NATO entities · defense research · adjacent researchers — reach out.
 
-[![Email](https://img.shields.io/badge/shellguru@protonmail.com-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:shellguru@protonmail.com)
+[![Email](https://img.shields.io/badge/security@hexg.io-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@hexg.io)
 
 ---
 
