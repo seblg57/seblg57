@@ -29,7 +29,7 @@ IRC operator roots. BSD and Gentoo first. Sun Microsystems later.
 
 ###  ⬡ HexG — Behavioral Intelligence Platform
 
-> *Not what hit you. Why.*
+> *Yes, Shodan says it's bad. HeXG tells you why — and shows you why.**
 
 Distributed attacker intelligence built entirely on **primary session data**. A network of geographically spread deception sensors  observes adversarial behavior in real time and reconstructs actor profiles — TTPs, timing patterns, kill chain stages, cross-sensor behavioral correlation.
 
