@@ -82,12 +82,28 @@ Tarentula sensors
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
 
-### 🤖 AI used in prod
+### 🤖 AI used for cognition and analytics
 
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Claude_Haiku-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![Mistral AI](https://img.shields.io/badge/Mistral_AI-FA520F?style=for-the-badge&logo=mistral-ai&logoColor=white)
+![Mistral Nemo](https://img.shields.io/badge/Mistral_Nemo-FF6A00?style=for-the-badge&logo=mistral-ai&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-4D6BFE?style=for-the-badge&logoColor=white)
+![Qwen_3](https://img.shields.io/badge/Qwen_3-6A4CFF?style=for-the-badge&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=xai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-FFFFFF?style=for-the-badge&logo=ollama&logoColor=black)
+
+### 🧠 ML used for training
+
+![Machine_Learning](https://img.shields.io/badge/Machine_Learning-0A66C2?style=for-the-badge&logoColor=white)
+![Deep_Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-111111?style=for-the-badge&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![Random_Forest](https://img.shields.io/badge/Random_Forest-2E8B57?style=for-the-badge&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logoColor=white)
 
 ---
 
