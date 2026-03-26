@@ -9,7 +9,8 @@
   "languages":  ["FR", "EN", "DE"],
   "location":   "EU",
   "day_job":    "architecting / deploying TIP/SOAR platforms",
-  "night_job":  "building my own attacker behavioral research platform from scratch",
+  "night_job":  "building my own apt behavioral research platform from scratch",
+  "weekend_job": "night_job",
   "sovereignty": true
 }
 ```
