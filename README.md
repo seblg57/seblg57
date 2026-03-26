@@ -18,7 +18,7 @@
 
 ### 💼 Professional background
 
-20 years across banking, defense, government, and intelligence sectors. 
+20 years of system engineering across banking, defense, government, and intelligence sectors. 
 
 ---
 
