@@ -17,9 +17,14 @@
 
 ---
 
-### 💼 Professional background
+### 💼 Pro background
 
-20 years of system engineering. I started early in IRCoperation circles, built my foundations on BSD , Gentoo, and later evolved through Sun Microsystems envs.
+20 years of system engineering. 
+---
+
+### 🌒 Free Background
+
+IRC operator roots. BSD and Gentoo first. Sun Microsystems later.
 ---
 
 ###  ⬡ HexG — Behavioral Intelligence Platform
