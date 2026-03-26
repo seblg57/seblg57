@@ -28,6 +28,35 @@ IRC operator roots. BSD and Gentoo first. Sun Microsystems later.
 
 ---
 
+### 🏠 Lab
+
+Multiple AMD 5950 - AMD 3990 - RTX workstations - EPYC AMD - XEON · High-end GPUs · Solar panels  · Local inference: soon™
+
+---
+
+### 📡 How I build
+
+- **Primary data > aggregated feeds** — the moat is what you capture yourself
+- **Deterministic pipeline** — same input, same output, always. Raw data never mutates
+- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
+- **AI gate** — ~88% of sessions resolved deterministically before any model sees them
+- **20 years of prod scars** — I've operated 1xxxxx-servers Linux estates and petabyte-scale storage. I don't build toys
+
+---
+
+### 📬 Contact
+
+I talk to serious people.  
+
+[![Email](https://img.shields.io/badge/security@hexg.io-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@hexg.io)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=sebux&color=6e40c9&style=flat-square)
+
+*20 years of infrastructure. Two research products in prod. Solo. Self-funded. EU-sovereign.*
+
+---
 
 ###  ⬡ HexG — Behavioral Intelligence Platform
 
@@ -84,36 +113,6 @@ The goal is not to flood teams with raw data, but to provide a cleaner operation
   "moat":       "primary data accumulated over time, not the code"
 }
 ```
-
----
-
-### 📡 How I build
-
-- **Primary data > aggregated feeds** — the moat is what you capture yourself
-- **Deterministic pipeline** — same input, same output, always. Raw data never mutates
-- **EU sovereign** — bare-metal , self-hosted auth, WireGuard overlay, zero cloud dependency on control plane
-- **AI gate** — ~88% of sessions resolved deterministically before any model sees them
-- **20 years of prod scars** — I've operated 1xxxxx-servers Linux estates and petabyte-scale storage. I don't build toys
-
----
-
-### 🏠 Lab
-
-Multiple AMD 5950 - AMD 3990 - RTX workstations - EPYC AMD - XEON · High-end GPUs · Solar panels  · Local inference: soon™
-
----
-
-### 📬 Contact
-
-I talk to serious people.  
-
-[![Email](https://img.shields.io/badge/security@hexg.io-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@hexg.io)
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=sebux&color=6e40c9&style=flat-square)
-
-*20 years of infrastructure. Two research products in prod. Solo. Self-funded. EU-sovereign.*
 
 
 ---
