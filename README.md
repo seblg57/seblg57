@@ -1,6 +1,7 @@
 
 ![Linkedin_banner](https://github.com/user-attachments/assets/2124903b-a60c-4d77-acb0-e5dc26679cb1)
 ### Hey, I'm Sebux. 👾
+![Profile views](https://komarev.com/ghpvc/?username=sebux&color=6e40c9&style=flat-square)
 ```bash
 /sebux $ cat about.json
 {
@@ -51,8 +52,6 @@ I talk to serious people.
 [![Email](https://img.shields.io/badge/security@hexg.io-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:security@hexg.io)
 
 ---
-
-![Profile views](https://komarev.com/ghpvc/?username=sebux&color=6e40c9&style=flat-square)
 
 *20 years of infrastructure. Two research products in prod. Solo. Self-funded. EU-sovereign.*
 
@@ -153,6 +152,8 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ### ☁️ Cloud
 ![AWS](https://img.shields.io/badge/AWS-2B3440?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-1F4F75?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-2F5F8A?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Oracle_Cloud](https://img.shields.io/badge/Oracle_Cloud-6E1E1E?style=for-the-badge&logo=oracle&logoColor=white)
 &nbsp;
 
 ---
