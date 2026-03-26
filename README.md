@@ -1,5 +1,6 @@
-### Hey, I'm Sebux. 👾
 
+![Linkedin_banner](https://github.com/user-attachments/assets/2124903b-a60c-4d77-acb0-e5dc26679cb1)
+### Hey, I'm Sebux. 👾
 ```bash
 /sebux $ cat about.json
 {
