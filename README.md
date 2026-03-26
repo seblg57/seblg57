@@ -23,7 +23,8 @@
 
 ---
 
-### ⬡ HexG — Behavioral Intelligence Platform
+⬡ 
+###  <img width="1296" height="800" alt="logohxg" src="https://github.com/user-attachments/assets/25215cc7-2e68-4a33-9ed2-bd1829a3cebf" /> HexG — Behavioral Intelligence Platform
 
 > *Not what hit you. Why.*
 
