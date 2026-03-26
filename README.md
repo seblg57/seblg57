@@ -131,19 +131,17 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-6A2B2B?style=for-the-badge&logo=freebsd&logoColor=white)
 ![Gentoo](https://img.shields.io/badge/Gentoo-4A3D63?style=for-the-badge&logo=gentoo&logoColor=white)
 ![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1F4E6B?style=for-the-badge&logo=archlinux&logoColor=white)
-![BlackArch](https://img.shields.io/badge/BlackArch-111111?style=for-the-badge&logo=archlinux&logoColor=white)
-![Kali_Linux](https://img.shields.io/badge/Kali_Linux-4A5D6E?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Parrot_OS](https://img.shields.io/badge/Parrot_OS-2E6A73?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-6B2942?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-4C5863?style=for-the-badge&logo=vmware&logoColor=white)
 
-⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
-
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
 
 ### ⚙️ Automation & Platform
 
 ![Ansible](https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-245C85?style=for-the-badge&logo=docker&logoColor=white)
+
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
 
 ### 🌐 Web / Edge / Access
 
@@ -152,10 +150,14 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ![Caddy](https://img.shields.io/badge/Caddy-2E5F73?style=for-the-badge&logo=caddy&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-6A2323?style=for-the-badge&logo=wireguard&logoColor=white)
 
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
+
 ### ☁️ Cloud
 
 ![AWS](https://img.shields.io/badge/AWS-2B3440?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-1F4F75?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
 
 ### 🔬 Observability & Security
 
@@ -163,6 +165,8 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ![Prometheus](https://img.shields.io/badge/Prometheus-8A503A?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-7A1F1F?style=for-the-badge&logo=zabbix&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-111111?style=for-the-badge&logo=splunk&logoColor=white)
+
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
 
 ### 💻 Dev
 
@@ -176,6 +180,8 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-8A741F?style=for-the-badge&logo=clickhouse&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-2A6A8A?style=for-the-badge&logo=natsdotio&logoColor=white)
 
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
+
 ### 🤖 AI used for cognition and analytics
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-3B2E63?style=for-the-badge&logo=openai&logoColor=white)
@@ -186,6 +192,8 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ![Qwen_3](https://img.shields.io/badge/Qwen_3-55408A?style=for-the-badge&logoColor=white)
 ![Grok](https://img.shields.io/badge/Grok-111111?style=for-the-badge&logo=xai&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-3A3A3A?style=for-the-badge&logo=ollama&logoColor=white)
+
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
 
 ### 🧠 ML used for training
 
@@ -199,8 +207,13 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ![PyTorch](https://img.shields.io/badge/PyTorch-8A3F2A?style=for-the-badge&logo=pytorch&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-7A461F?style=for-the-badge&logoColor=white)
 
+⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯ ⋯
+
 ### 🕶️ OSINT & RTT
 
+![BlackArch](https://img.shields.io/badge/BlackArch-111111?style=for-the-badge&logo=archlinux&logoColor=white)
+![Kali_Linux](https://img.shields.io/badge/Kali_Linux-4A5D6E?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Parrot_OS](https://img.shields.io/badge/Parrot_OS-2E6A73?style=for-the-badge&logo=parrotsecurity&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-3A3A3A?style=for-the-badge&logoColor=white)
 ![Red_Teaming](https://img.shields.io/badge/Red_Teaming-5A2A2A?style=for-the-badge&logoColor=white)
 ![Recon](https://img.shields.io/badge/Recon-2F4F6A?style=for-the-badge&logoColor=white)
