@@ -132,4 +132,4 @@ I talk to serious people.
 
 ![Profile views](https://komarev.com/ghpvc/?username=sebux&color=6e40c9&style=flat-square)
 
-*20 years of infrastructure. Two products in prod. Solo. Self-funded. EU-sovereign.*
+*20 years of infrastructure. Two research products in prod. Solo. Self-funded. EU-sovereign.*
