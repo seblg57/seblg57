@@ -45,7 +45,6 @@ Tarentula sensors
 
 ### ◈ WatchScope — Security SaaS
 
-Security monitoring platform for web agencies. Funds HexG infrastructure. The two products feed each other.
 
 ---
 
