@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sebux
 
-<!--
-**seblg57/seblg57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Security Architect • Cyber Research • Adversarial Behavior
 
-Here are some ideas to get you started:
+I build projects around honeypots, telemetry, threat intelligence, and security-focused product design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main Projects
+
+- **HeX / HeXG** — adversarial observation and behavioral analysis
+- **WatchScope** — infrastructure and IP intelligence workflows
+- **Tarentula Honeypot** — deception and telemetry capture
+- **Earthflow** — automated cinematic content generation
+
+## Expertise
+
+- Security Architecture
+- Solaris / Linux Hardening
+- Threat Intelligence
+- Detection Engineering
+- FastAPI / PostgreSQL / ClickHouse / NATS
+
+## Links
+
+- [HeX](https://hex.io)
+- [WatchScope](https://watchscope.io)
+- [PurpleCore](https://purplecore.xyz)
+- [Earthflow](https://earthflow.io)
