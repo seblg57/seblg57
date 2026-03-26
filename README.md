@@ -49,7 +49,7 @@ Tarentula sensors
 
 ### ⬢ HeXG Auth — Sovereign Access Layer
 
-> *Access control treated as security infrastructure, not as a commodity feature.*
+> *No outsourced trust. No external gatekeeper. Built to stand free.*
 
 HeXG includes a self-hosted authentication layer built with the same philosophy as the platform itself: control, resilience, and sovereignty.
 
