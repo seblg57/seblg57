@@ -132,7 +132,7 @@ OSINT, surface mapping, targeted validation, custom offensive research, and red 
 ![Arch_Linux](https://img.shields.io/badge/Arch_Linux-1F4E6B?style=for-the-badge&logo=archlinux&logoColor=white)
 ![Raspberry_Pi](https://img.shields.io/badge/Raspberry_Pi-6B2942?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![VMware](https://img.shields.io/badge/VMware-4C5863?style=for-the-badge&logo=vmware&logoColor=white)
-
+<hr width="100%" size="1">
 ### ⚙️ Automation & Platform
 ![Ansible](https://img.shields.io/badge/Ansible-1A1A1A?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-245C85?style=for-the-badge&logo=docker&logoColor=white)
