@@ -31,7 +31,7 @@ IRC operator roots. BSD and Gentoo first. Sun Microsystems later.
 
 ### 🏠 Lab
 
-Multiple AMD 5950 - AMD 3990 - RTX workstations - EPYC AMD - XEON · High-end GPUs · Solar panels  · Local inference: soon™
+Multiple AMD 5950 - AMD 3990 - EPYC AMD - XEON - RaspB Cascade · High-end GPUs · Solar panels  · Local inference: soon™
 
 ---
 
