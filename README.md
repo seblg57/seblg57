@@ -5,7 +5,7 @@
 ```bash
 /sebux $ cat about.json
 {
-  "title":      "Systems thinker, Researcher and Solo Founder",
+  "title":      "Systems thinker, Researcher",
   "experience": "20+ years in mission-critical infrastructure",
   "languages":  ["FR", "EN", "DE"],
   "location":   "EU",
