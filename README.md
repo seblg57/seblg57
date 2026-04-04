@@ -25,7 +25,7 @@
 
 ### 🌒 Free Background
 
-IRC operator roots. BSD and Gentoo first. Sun Microsystems later.
+IRC operator roots. Sun-forged. Raised in a world where people read man pages, knew their stack, and had standards. Fuck it.
 
 ---
 
